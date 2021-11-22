@@ -45,6 +45,7 @@
 - [21] Y. Yan, S. Zhang, M. Ju, W. Ren, R. Wang and Y. Guo, "A Point Light Source Interference Removal Method for Image Dehazing," 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2020, pp. 3817-3825, doi: 10.1109/CVPRW50498.2020.00445.
 - [22] C. Chen, J. Liu, K. Chen, and M. Ju, Single image dehazing method based on gradient matrix and ternary parameter search. In 2021 13th International Conference on Wireless Communications and Signal Processing (WCSP) (WCSP’21), Changsha, China, October 2021.
 - [23] K. Chen, J. Liu, C. Chen, Z. Wang, and M. Ju, Contrast restoration of hazy image in HSV space. In 2021 13th International Conference on Wireless Communications and Signal Processing (WCSP) (WCSP’21), Changsha, China, October 2021.
+
 ### 专利
 - [1] 鞠铭烨,王时巨,苏诺宇,张登银, “一种基于区域线先验的图像去雾方法”, 2021.10.13
 - [2] 鞠铭烨，王欣，刘菊萍，张登银，“一种基于增强大气散射模型的图像去雾和曝光方法”，2021.08.10
