@@ -23,7 +23,7 @@
 ## 研究成果
 ### 论文
 - [1]M. Ju, C. Ding, W. Ren, Y. Yang, D. Zhang and Y. J. Guo, "IDE: Image Dehazing and Exposure Using an Enhanced Atmospheric Scattering Model," IEEE Transactions on Image Processing, vol. 30, pp. 2180-2192, 2021 (SCI一区，CCF-A)
-- [2] M. Ju, C. Ding, Charles A. Guo, W. Ren, and D. Tao, "IDRLP: Image Dehazing Using Region Line Prior," IEEE Transactions on Image Processing, Accepted (SCI一区，CCF-A)
+- [2] M. Ju, C. Ding, C. A. Guo, W. Ren and D. Tao, "IDRLP: Image Dehazing Using Region Line Prior," IEEE Transactions on Image Processing, vol. 30, pp. 9043-9057, 2021(SCI一区，CCF-A)
 - [3] M. Ju, C. Ding, Y. jay Guo, and D. Zhang, “IDGCP: Image Dehazing Based on Gamma Correction Prior,” IEEE Transactions on Image Processing, vol. 29, pp. 3104-3118, 2020. (SCI一区，CCF-A)
 - [4] M. Ju, C. Ding, W. Ren, and Y. Yang. “IDBP: Image Dehazing Using Blended Priors Including Non-local, Local, and Global Priors," IEEE Transactions on Circuits and Systems for Video Technology, Early Access, 2021. (SCI一区,  CCF-B)
 - [5] M. Ju, C. Ding, D. Zhang, and Y. jay Guo, “BDPK: Bayesian Dehazing Using Prior Knowledge,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 8, pp. 2349-2362, Aug. 2019. (SCI一区，CCF-B)
